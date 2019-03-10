@@ -7,6 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A video player using youtube API
 Project based on a tutorial by Steven Grider
 
-![printscreen](screen.png "printscreen")
+![printscreen](pscreen.png "printscreen")
 
 JavaScript, React, CSS, Semantic UI
